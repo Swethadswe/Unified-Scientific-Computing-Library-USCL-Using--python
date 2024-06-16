@@ -1,0 +1,68 @@
+Matrix Multiplication:
+[[1, 2, 3], [4, 5, 6]] * [[7, 8], [9, 10], [11, 12]]
+
+O/P:
+Input Numbers:
+[1.5, 2.3, 3.1, 4.0, 4.9]
+
+[[58, 64], [139, 154]]
+===========================================================
+Numerical Analysis:
+1.5, 2.3, 3.1, 4.0, 4.9
+
+O/p:
+Input Numbers:
+[1.5, 2.3, 3.1, 4.0, 4.9]
+
+Mean: 3.24
+Median: 3.1
+Mode: 4.0
+Variance: 1.12
+Standard Deviation: 1.06
+============================================================
+Probability Operations:
+0.5, 0.6, 0.7, 0.8, 0.9
+
+Input Numbers:
+[0.5, 0.6, 0.7, 0.8, 0.9]
+
+Uniform PDF:
+[0.25, 0.25, 0.25, 0.25, 0.25]
+
+Uniform CDF:
+[0.5, 0.75, 0.875, 0.9375, 0.96875]
+
+Normal PDF:
+[0.3521, 0.3194, 0.242, 0.1478, 0.076]
+
+Normal CDF:
+[0.6915, 0.6808, 0.6179, 0.5404, 0.4192]
+
+Binomial PDF:
+[0.2461, 0.3767, 0.2642, 0.0977, 0.0196]
+
+Binomial CDF:
+[0.2461, 0.6228, 0.887, 0.9847, 0.9996]
+
+Information Entropy:
+[1.3863]
+
+Bayes' Theorem:
+[0.6915]
+
+=========================================================
+Statistics:
+
+10, 15, 12, 18, 20, 17, 16, 19, 21, 14
+
+O/p:
+Input Numbers:
+[10, 15, 12, 18, 20, 17, 16, 19, 21, 14]
+
+75th Percentile: 19.0
+25th Percentile: 14.0
+Q1: 14.0
+Q3: 19.0
+Interquartile Range: 5.0
+Correlation Coefficient: 1.0
+Regression Coefficient: 0.1429
